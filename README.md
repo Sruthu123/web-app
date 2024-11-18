@@ -5,16 +5,20 @@ This is a simple "To-Do List" web application built using Flask (Python). It is 
 **Prerequisites**
 
 To run this project locally or deploy it to Google Cloud, you will need the following:
+
 •	Python 3.9
+
 •	pip 
+
 •	Google Cloud SDK 
+
 •	Google Cloud account 
 
 **Running Locally**
 
 1.	Create project folder:
    
-        commands to create:
+   	commands to create:
 
 	mkdir web-app
 
@@ -83,7 +87,9 @@ Step 2: Deploy the App
   	
     	• app.yaml
 
-    	command to deploy your app: gcloud app deploy
+    	
+     	command to deploy your app: gcloud app deploy
+
 
 The app will be globally accessible at
 
