@@ -14,7 +14,7 @@ To run this project locally or deploy it to Google Cloud, you will need the foll
 
 1.	Create project folder:
    
-   	commands to create:
+        commands to create:
 
 	mkdir web-app
 
@@ -49,6 +49,7 @@ The app will be accessible at http://localhost:5000/
 **Setting up Google Cloud SDK:**
 
 1.	Install the Google Cloud SDK.
+   
 2.	Authenticate with Google Cloud:
    
     	command to login: gcloud auth login
@@ -67,11 +68,11 @@ Step 1: Set Up Google Cloud Project
 Step 2: Deploy the App
 1.	Prepare your environment:
    
-    		commands Login and set
+        commands Login and set
   	
-    		gcloud auth login
+        gcloud auth login
   	
-   	 	gcloud config set project YOUR_PROJECT_ID
+        gcloud config set project YOUR_PROJECT_ID
   	
 2.	Deploy the web-app:
    	 1. Make sure your project folder contains the following files:
