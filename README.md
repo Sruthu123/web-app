@@ -91,8 +91,6 @@ Step 2: Deploy the App
      	command to deploy your app: gcloud app deploy
 
 
-The app will be globally accessible at
 
-https://flask-web-app-442014.el.r.appspot.com
 
 
